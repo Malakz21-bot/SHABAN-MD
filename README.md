@@ -1,4 +1,4 @@
-![WELLCOME](Shaban/wellcome.svg)
+![WELLCOME](Malakz/wellcome.svg)
   
 ______
 
@@ -7,7 +7,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/MRSHABAN45" target="_blank">
-    <img src="./Shaban/dev-gold-mini.svg" width="300" alt="Developer — MR SHABAN (Gold 3D)">
+    <img src="./Malakz/dev-gold-mini.svg" width="300" alt="Developer — MR MALAKZ (Gold 3D)">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ ___
 
 <p align="center">
 <a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=MALAKZ-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
 
@@ -56,7 +56,7 @@ ___
 -------------
 
 <p align="center">
-  <img src="./Shaban/deployment.svg" width="600" alt="SHABAN MD — News Ticker Typing">
+  <img src="./Shaban/deployment.svg" width="600" alt="MALAKZ MD — News Ticker Typing">
 </p>
 
 <div align="center">
@@ -66,7 +66,7 @@ ___
       <td><a href="https://bot-hosting.net/?aff=1335487206948864030" target="_blank"><img src="https://img.shields.io/badge/Bot-Hosting-A52A2A?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/deploy?name=shaban-md-v6-koyeb&type=git&repository=MRSHABAN45%2FSHABAN-MD&branch=main&builder=dockerfile&instance_type=free&regions&=was&env%5BSESSION_ID%5D=" target="_blank"><img src="https://img.shields.io/badge/KOYEB-APP-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/deploy?name=malakz-md-v6-koyeb&type=git&repository=MRMALAKZ45%2FMALAKZ-MD&branch=main&builder=dockerfile&instance_type=free&regions&=was&env%5BSESSION_ID%5D=" target="_blank"><img src="https://img.shields.io/badge/KOYEB-APP-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-000080?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -172,4 +172,4 @@ jobs:
 
 
 <p align="center">
-<img src="Shaban/nolove.svg" alt="NoLove" width="250"/>
+<img src="Malakz/nolove.svg" alt="NoLove" width="250"/>
