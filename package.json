@@ -9,17 +9,17 @@
     "restart": "pm2 restart MALAKZ-MD"
   },
   "keywords": [
-    "shaban-md",
+    "malakz-md",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
     "nodejs-whatsapp-bot",
-    "mr-shaban",
-    "shaban-ai",
+    "mr-malakz",
+    "malakz-ai",
     "bandaheali-ai",
     "whatsapp-md-bot",
     "baileys-whatsapp",
-    "shaban-md-whatsapp-bot",
+    "malakz-md-whatsapp-bot",
     "chatbot"
   ],
   "dependencies": {
